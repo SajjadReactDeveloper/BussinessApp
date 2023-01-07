@@ -1,7 +1,6 @@
 export default routes = {
 
     authenticationFlow: {
-
         loginScreen: "Login",
         registerEmailScreen: "EmailRegister",
         registerProfileScreen: "ProfileRegister",
